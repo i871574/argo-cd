@@ -113,3 +113,4 @@ Currently, the following organizations are **officially** using Argo CD:
 1. [WeMo Scooter](https://www.wemoscooter.com/)
 1. [Whitehat Berlin](https://whitehat.berlin) by Guido Maria Serra +Fenaroli
 1. [Yieldlab](https://www.yieldlab.de/)
+1. [SAP](https://www.sap.com/)
